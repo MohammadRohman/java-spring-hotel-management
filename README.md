@@ -54,7 +54,7 @@
 
 1. Ekstrak folder::
    ```sh
-   unzip folder di direktori mana saja
+   unzip folder di direktori mana saja atau clone github
    ```
    
 2. Buka terminal dan navigasi ke direktori proyek::
